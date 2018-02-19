@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 699e1138bb36ab34fb0aeeff936608b8
+timeCreated: 1469794383
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {fileID: 100000, guid: e91cf10202e94d9478e23af3b0181b85, type: 2}
+  - laserPrefab: {fileID: 100000, guid: 5303638b193fe824f8ba39dc624248b4, type: 2}
+  - spreadPrefab: {fileID: 100000, guid: e7a6bac088e4c464c86e5ea981abddb6, type: 2}
+  - enemy1Prefab: {fileID: 100000, guid: 0db4a47c71a1b7c4890e68cbdf78fc7c, type: 2}
+  - enemy2Prefab: {fileID: 100000, guid: e9fee62bb06b98a40ae01d9ec80eacd8, type: 2}
+  - enemy3Prefab: {fileID: 100000, guid: 461b94141c0d1e348860c7a41f2edd72, type: 2}
+  - asteroidPrefab: {fileID: 100000, guid: ddb4cd90200a4b844b92a9b7e2f468cd, type: 2}
+  - shieldPrefab: {fileID: 100000, guid: 57426f527db0a7347a1a3e7ac3e930f8, type: 2}
+  - gameGUI: {instanceID: 0}
+  - explosion1: {fileID: 100000, guid: a4a9392acc274104f91ff8e04f4d017a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

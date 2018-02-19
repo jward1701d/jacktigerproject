@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2e48f1dc9eec2d74597a2218c2f7fc1d
+timeCreated: 1469793687
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lazzer: {fileID: 100000, guid: 5edd2085c0136a14398f73c970c162b5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
